@@ -32,4 +32,13 @@
         app:layout_constraintTop_toTopOf="parent"
         app:layout_constraintVertical_bias="1.0" />
 
+    <Button
+        android:id="@+id/button2just4Git"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Git "
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        tools:layout_editor_absoluteY="459dp" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
