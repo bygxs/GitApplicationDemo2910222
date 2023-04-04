@@ -20,6 +20,12 @@ public class MainActivity extends AppCompatActivity {
 
         System.out.println("This is my Git projcet 2.0 attempt to save Git locally " +
                 "22:07 saturday 29 Oct 2022");
+        /**
+         * helloText does....
+         *
+         */
+
+
         helloText = findViewById(R.id.helloText);
 
         git = findViewById(R.id.button2just4Git);
@@ -33,6 +39,9 @@ public class MainActivity extends AppCompatActivity {
         });
 
 */
+/* Todo: I am going back to Bill's lectures. Actual Utbilding istället för skittiga tutorials
+    30th october 2022 kl. 15:49
+ */
 
 
     }
